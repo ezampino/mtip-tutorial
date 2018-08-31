@@ -76,6 +76,12 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 
 Note: You can create folders in your GitHub repository, just like on your computer.
 
+### Gitter
+Gitter is a chat platform (like Skype, Slack, etc.) that is linked to GitHub accounts.
+
+We created a Gitter room for this tutorial, please join [here](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
+
+
 ### Additional Resources
 - [Frequently Asked Questions](FAQ)
 - [Git and GitHub for Documentation](http://www.slideshare.net/annegentle/git-and-github-for-documentation)

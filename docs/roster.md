@@ -1,4 +1,4 @@
-#### Class Roster
+### Class Roster
 
 **Instructors:**
 - Julie McMurry: [jmcmurry](https://github.com/jmcmurry)

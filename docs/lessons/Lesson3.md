@@ -5,7 +5,6 @@
 - [Organization](#organization)
 - [Markdown](#markdown)
 - [Content types](#content)
-- [Gists](#gists)
 
 ### Getting started
 

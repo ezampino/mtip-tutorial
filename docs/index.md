@@ -1,4 +1,6 @@
 ![](./other-images/CD2H-logo-01.png)
+## Managing Translational Informatics Projects (MTIP)
+
 **When**: Friday, September 21  
 **Time**: 9am - 4pm PT (with a break for non-hosted lunch)  
 **Where**: RLSB on the OHSU SW Waterfront; remote participation options available, but registration required

@@ -28,7 +28,7 @@ Note that if the workshop is oversubscribed, a second date will be considered.
 - [Lesson 6: Team communication via persistent chat / email etc](lessons/Lesson6.md)
 
 #### Privacy
-This tutorial is scoped for public data and communications only. If have any questions about the suitability of these technologies for your particular project at your institution, please contact them. At OHSU, the right place to ask is the information technology group: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)
+* This tutorial is scoped for public data and communications only. If have any questions about the suitability of these technologies for your particular project at your institution, please contact them. At OHSU, the right place to ask is the information technology group: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)
 
 ### Contact us
 For questions about the workshop itself, contact us at [data2health@gmail.com](mailto:data2health@gmail.com)

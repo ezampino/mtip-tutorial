@@ -1,6 +1,6 @@
 **When**: Friday, September 21  
 **Time**: 9am - 4pm PT (with a break for non-hosted lunch)  
-**Where**: RLSB on the OHSU SW Waterfront; remote participation options available
+**Where**: RLSB on the OHSU SW Waterfront; remote participation options available, but registration required
 
 Translational Informatics projects are increasingly cross-institutional and even international; managing them comes with lots of shared pain points. This one day workshop will provide hands-on training to anyone who is organizing or managing cross-functional distributed teams that develop code or that analyze data across the translational divide*. Specifically, we will introduce several the practical tools and techniques for managers to facilitate these kinds of endeavors. The hands-on training will familiarize participants with helpful tools and techniques, and to help them make informed decisions about which tools might work best for their particular contexts. We conclude with a session wherein all participants are welcome to share additional pain points and related experience.
 
@@ -9,6 +9,7 @@ Translational Informatics projects are increasingly cross-institutional and even
 **Cost**: Free to attend  
 
 #### [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdNWPSk1jJVu-b2ITL6SwNVlOkaqdHiymTV4GtrZzmetuaJdQ/viewform)
+Note that if the workshop is oversubscribed, a second date will be considered.
 
 ### Agenda
 
@@ -27,5 +28,5 @@ Translational Informatics projects are increasingly cross-institutional and even
 This tutorial is scoped for public data and communications only. If you have any questions about the suitability of these technologies for your particular project at OHSU, please contact the information technology group at OHSU: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)
 
 ### Contact us
-[info@monarchinitiative.org](mailto:info@monarchinitiative.org)
+[data2health@gmail.com](mailto:data2health@gmail.com)
 

@@ -16,16 +16,18 @@ Note that if the workshop is oversubscribed, a second date will be considered.
 
 ### Agenda
 
-**Note: This content is still under development.**  
+**Note: This content is still under development; each lesson includes time for putting it into practice.**  
 
-- [Lesson 1: Agile project management techniques](lessons/Lesson1.md)
-- [Lesson 2: Using RedCap for team onboarding](lessons/Lesson2.md) 
-- [Lesson 3: Managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson5.md) 
-- [Lesson 4: Team communication via persistent chat / email etc](lessons/Lesson6.md)
-- [Lesson 5: Introduction to GitHub for managers (non-programmers)
+- 9am PT [Lesson 1: Introduction to agile project management techniques](lessons/Lesson1.md)
+- 10am PT [Lesson 2: Introduction to RedCap for team onboarding](lessons/Lesson2.md) 
+- 11am PT [Lesson 3: Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson5.md) 
+- 1pm PT [Lesson 4: Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson6.md)
+- 1:30 pm PT [Lesson 5: Introduction to GitHub for managers (non-programmers)
 ](lessons/Lesson3.md) 
-- [Lesson 6: Managing and tracking issues in GitHub
+- 2:30 pm PT [Lesson 6: Intro to managing and tracking issues in GitHub
 ](lessons/Lesson4.md)
+- 3:30 pm PT Knowledge-sharing session / Q&A
+- 4pm conclude
 
 #### Privacy
 \* This tutorial is scoped for public data and communications only. If have any questions about the suitability of these technologies for your particular project at your institution, please contact them. At OHSU, the right place to ask is the information technology group: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)

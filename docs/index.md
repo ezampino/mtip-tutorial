@@ -20,12 +20,12 @@ Note that if the workshop is oversubscribed, a second date will be considered.
 
 - 9am PT [Lesson 1: Introduction to agile project management techniques](lessons/Lesson1.md)
 - 10am PT [Lesson 2: Introduction to RedCap for team onboarding](lessons/Lesson2.md) 
-- 11am PT [Lesson 3: Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson5.md) 
-- 1pm PT [Lesson 4: Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson6.md)
+- 11am PT [Lesson 3: Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson3.md) 
+- 1pm PT [Lesson 4: Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson4.md)
 - 1:30 pm PT [Lesson 5: Introduction to GitHub for managers (non-programmers)
-](lessons/Lesson3.md) 
+](lessons/Lesson5.md) 
 - 2:30 pm PT [Lesson 6: Intro to managing and tracking issues in GitHub
-](lessons/Lesson4.md)
+](lessons/Lesson6.md)
 - 3:30 pm PT Knowledge-sharing session / Q&A
 - 4pm conclude
 

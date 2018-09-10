@@ -20,12 +20,12 @@ Note that if the workshop is oversubscribed, a second date will be considered.
 
 | Time (PT)| Lesson # | Description | 
 |:-------:|:-------------:|:------------------:|
-|9am	| 1	| [Introduction to agile project management techniques](lessons/Lesson1.md)| 
-|10am	| 2	| [Introduction to RedCap for team onboarding](lessons/Lesson2.md) | 
-|11am	| 3	| [Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson3.md) |
-|1pm | 4 | [Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson4.md) |
-|1:30pm | 5	| [Introduction to GitHub for managers (non-programmers)](lessons/Lesson5.md) |
-|2:30pm	| 6	| [Intro to managing and tracking issues in GitHub](lessons/Lesson6.md) | 
+|9am	| [1](lessons/Lesson1.md)	| [Introduction to agile project management techniques](lessons/Lesson1.md)| 
+|10am	| [2](lessons/Lesson2.md)	| [Introduction to RedCap for team onboarding](lessons/Lesson2.md) | 
+|11am	| [3](lessons/Lesson3.md)	| [Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson3.md) |
+|1pm | [4](lessons/Lesson4.md) | [Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson4.md) |
+|1:30pm | [5](lessons/Lesson5.md)	| [Introduction to GitHub for managers (non-programmers)](lessons/Lesson5.md) |
+|2:30pm	| [6](lessons/Lesson6.md)	| [Intro to managing and tracking issues in GitHub](lessons/Lesson6.md) | 
 |3:30pm |  | Knowledge-sharing session / Q&A |
 |4:00pm |  | Conclude |
 

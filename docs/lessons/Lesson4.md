@@ -1,4 +1,4 @@
-## Lesson 4: Survival strategies for team communication eg. via persistent chat / email etc
+## Lesson 4: Survival strategies for team communication
 ##### [Back to Home](../index.md)
 
 ### Overview

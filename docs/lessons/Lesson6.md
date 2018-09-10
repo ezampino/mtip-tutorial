@@ -1,4 +1,4 @@
-## Lesson 6: Team communication via persistent chat / email etc
+## Lesson 4: Survival strategies for team communication eg. via persistent chat / email etc
 ##### [Back to Home](../index.md)
 
 ### Overview
@@ -53,4 +53,5 @@ Note - you can also download gitter to your desktop and chat through the app
 ### Skype
 Content is under development.
 
+##### [Click here for Lesson 5](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) 
 ### [Back to Home](../index)

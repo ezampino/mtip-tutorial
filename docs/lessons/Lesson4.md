@@ -1,4 +1,4 @@
-## Lesson 4: Managing and tracking issues in GitHub
+## Lesson 6: Intro to managing and tracking issues in GitHub
 ##### [Back to Home](../index.md)
 
 ### [Overview](#overview)
@@ -188,7 +188,6 @@ If you have an issue with GitHub itself (bug, feature request, etc) where do you
 - Certain things you think you *should* be able to do from the UI, you just can not:
   - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or command line).
 
-##### [Click here for Lesson 5](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) 
 ### [Back to Home](../index.md)
 
 

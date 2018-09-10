@@ -1,194 +1,57 @@
-## Lesson 6: Intro to managing and tracking issues in GitHub
+## Lesson 4: Survival strategies for team communication eg. via persistent chat / email etc
 ##### [Back to Home](../index.md)
 
-### [Overview](#overview)
-- [How to create issues](#create-issues)
-- [How to assign issues](#assign-issues)
-- [How to communicate about issues](#communicate-about-issues)
-- [How to organize issues](#organize-issues)
-- [How to query issues](#query-issues)
-- [How to assign teams](#teams)
-- [Where to go when you need help](#help)
-- [Miscellany that is good to know](#miscellany)
+### Overview
+- [Communication considerations](#communication)
+- [Gitter](#gitter)
+- [Slack](#slack)
+- [Skype](#skype)
 
-### Create issues
-[Back to top](#overview)
+### Communication considerations
 
-**Why:**
-"Issues are a great way to keep track of **tasks**, **enhancements**, and **bugs** for your projects or for anyone else's. As long as you are a registered GitHub user you can log an issue, or comment on an issue for any open repo on GitHub. Issues are a bit like email—except they can be shared, intelligently organized, and discussed with the rest of your team. GitHub’s tracker is called Issues, and has its own section in every repository." (From: https://guides.github.com/features/issues/)
+#### 1. Set clear standards of communication
 
-**How:**
+Depending on the type of work you do, a daily or even a couple of daily meetings might be required to ensure team cohesiveness. Mandy Brown, the CEO of Editorially, a collaborative writing platform that was bought by Vox Media last year, [advocates](http://stet.editorially.com/articles/making-remote-teams-work/) that remote teams overcommunicate on purpose. “On a remote team, opportunities for misunderstanding between teammates distributed across both time and geography magnify,” she wrote. Brown says one effective way to ensure communication is to record meetings so that anyone confused about what has transpired can go back and look at the record. In practice, recording meetings can also limit candor, so it should be limited to meetings where a key member is known to be missing and has indicated a willingness to listen to the recording. Communication is key to effectively leading remote and/or distributed teams. Setting up the standard for communication and requiring it be followed will be critical.
 
-How to create an issue in GitHub:
+#### 2. Experiment small and scale up to the whole team
 
-- In [github.com](https://github.com/) navigate to the repository where you want to create a ticket:
- - On the right hand side, you should see a box with "your repositories"
- - Click on your repository of interest
-- Click "issues"
-- Click "New Issue" (note the word 'issue' and 'ticket' are frequently used interchangeably)
-- Write an informative title
-- Write a detailed explanation of your issue
-- In the case of reporting software bugs, provide some context in which the issue was encountered (e.g. bug detected when using Google Chrome on a Mac OS)
-- Indicate whether the issue is a task, enhancement, or bug
-- If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. Note, you can also add sub-tasks by clicking the 'add a task list' button in the tool bar. The status of the tasks in an issue (eg. [https://github.com/OHSU-Library/github-tutorial/issues/12](https://github.com/OHSU-Library/github-tutorial/issues/12)) will then be reflected in any summary view. Eg. [https://github.com/OHSU-Library/github-tutorial/issues](https://github.com/OHSU-Library/github-tutorial/issues).
-- acknowledgement of dependencies (you can refefence other issues in the tracker by just including the issue #, e.g. #12)
-- mentions of specific people
-- Click Submit new issue
-- Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).
+When asking the whole team to do a new kind of task, ask one person or a handful of other people if the request is clear. You may not want to pilot your requests with the team member who is always complaining; however, sometimes this makes sense. If the sticky wicket can help identify a lack of clarity, diffuse purpose etc. it can save the whole team time and work more effectively. The bigger your team is, the more important this step is.
 
-**Your turn:**
+#### 3. When it comes to centralizing comms, pick your battles
 
-Follow the instructions above to create a ticket about a hypothetical issue (such as an improvement to this tutorial) that includes a sub-task list.
+Some things are better communicated in person or by team leads rather than by a centralized email. Pick your worst critic or most disinterested person. Read the email through that person’s eyes. Then make the decision. If you do decide to federate the messaging, give the leads a head start with fodder so that the message gets through clearly.
 
-### Assign issues
-[Back to top](#overview)
+#### 4. Know what tools to use for what sorts of communications
 
-**Assign issues to people**
+Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/](https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/)
 
-- On the top right hand side, click "Assignees"
-- You can assign issues to yourself or other people who are part of the repository
-- In the box, start typing type their name or github handle.
+#### 5. Know what to look for in terms of growing pains
 
-**Add labels**
-
-- On the top right hand side, click "Labels"
-- Assign a relevant label to your ticket
-
-**Your turn:**
-
-On the ticket you previously created:
-
-- Assign the ticket to Nicole
-- Add a label for an enhancement
-
-### Communicate about issues
-[Back to top](#overview)
-
-**Comment on issues**
-
-- Click on an issue in the issue tracker in the [OHSU-Library/github-tutorial](https://github.com/OHSU-Library/github-tutorial) repo
-- Scroll to the bottom of the issue, and add content in the "Leave a comment" field
-- Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
-- Preview your text to see how your formatting looks
-- Click Comment. If you want to close the issue, click Close Issue. Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the ticket and click Close Issue. The ticket will no longer be dispalyed in the list of open issue, but will be archived.
-
-**Use direct @ mentions**
-
-- You can mention someone in a issue without assigning it to them
-- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry. You can either start typing their name or github handle and github will autosuggest their handle.
-
-**Link documents**
-
-You can link documents and files by:
-
-- copy and pasting URL
-- you can attach files by dragging and dropping.
-- You can link one issue to another in the same repo by typing '#' followed by the title of the ticket
-- This approach also works across repos but you need to use the full URL (no autocomplete available). Doing this will also cause the referent issue to display that it has been referenced.
-
-**Cross reference to another ticket**
-
-- If your ticket is a duplicate or related to another ticket, you can cross reference another ticket
-- Type # and you will see a list of other tickets in that repo
-- Type #TicketNumber and that will link to the other ticket. For example [#10](https://github.com/OHSU-Library/github-tutorial/issues/10) will link to [this ticket](https://github.com/OHSU-Library/github-tutorial/issues/10)
-
-**_Before saving your changes, you can preview the comment to ensure the correct formatting._**
-
-**Your turn:**
-
-- Follow the instructions above to comment on a ticket that someone created.
-- Mention Julie
-- Attach a picture of a cat (such as a picture you copy from the internet, or attach a picture you have saved on your computer)
-- Include a comment that says, 'related to #10' and link to ticket [#10](https://github.com/OHSU-Library/github-tutorial/issues/10)
-
-### Organize issues
-[Back to top](#overview)
-
-**Milestones**
-
-- To create a milestone, navigate to the issues page in your repository
-- Next to the search field, click **Milestones**
-- Click **New Milestone** to create a new milestone, click **Edit** to edit an existing one
-- Create a milestone that is broad enough to be meaningful, but specific enough to be actionable.
-- Set a due date for the milestone (note that specific tasks can not be formally assigned due dates, though you can mention a desired due date in the narrative text of a ticket.
-- Each ticket can only be associated to ONE milestone, however it can have as many labels as appropriate.
-
-**New Labels**
-
- - On GitHub, navigate to the main page of the repository Issues and pull requests tab selection
- - Under your repository name, click  Issues (or  Pull requests)
- - Click Labels button next to the search field
- - Click New Label to create a new label, or click Edit to edit an existing one.
- - In the text box, type your new label name.
- - Select a color for the label from the color bar. You can customize this color by editing the hexadecimal number above the color bar. For a list of hexadecimal numbers see [HTML color codes](http://htmlcolorcodes.com/)
- - Click Create Label to save the new label.
-
-**Your turn**
-
-Create a new milestone and a new label, and add the milestone and label to an existing ticket.
-
-**Projects**
-
-- Projects is a lot like Trello, it uses cards on a list that you can name and organize as you see fit.
-- You can create as many projects within a repository as you like
-
-To create project:
-
-- Click on Projects
-- Click New Project
-- Name the project
-- Write a description of the project
-- Create columns and give them names
-- Add 'cards' to the columns
-
-**Your turn**
-
-Create a new project and add columns and add cards to the columns.
-
-### Query issues
-[Back to top](#overview)
-
-Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
-
-#### Configure emails for mentions
-
-You can set rules in your email to filter for emails that mention you, ie @username.
-
-### Teams
-[Back to top](#overview)
-
-**Task: Create a team**
-
-See this [help article on creating teams](https://help.github.com/articles/creating-a-team/)
-
-- All issues assigned to me: [https://github.com/issues/assigned](https://github.com/issues/assigned)
-- All issues on which I am @ mentioned: [https://github.com/issues/mentioned](https://github.com/issues/mentioned)
-
-More complex queries are also possible.
-
-- All issues either assigned to me OR on which I have commented OR am mentioned: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+)
-- All issues in all repos within an organization: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library)
-
-Further reading on [Issue querys](https://help.github.com/articles/searching-issues/)
-
-### Help
-[Back to top](#overview)
-
-If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. https://github.com/isaacs/github/issues/. However, this is a rogue repo and a bit contentious.
-
-- You may find the answers you seek in  [StackOverflow](http://stackoverflow.com/questions/tagged/github), although it is primarily geared towards programmers.
-- GitHub kinda monitors [https://github.com/isaacs/github/issues/](https://github.com/isaacs/github/issues/) but not with any rigor.
-- To be safe, contact GitHub directly at [https://github.com/contact](https://github.com/contact), but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
-
-### Miscellany
-
-[Back to top](#overview)
-
-- It is possible but not obvious how to rename a repository. [https://help.github.com/articles/renaming-a-repository/](https://help.github.com/articles/renaming-a-repository/)
-- Certain things you think you *should* be able to do from the UI, you just can not:
-  - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or command line).
-
-### [Back to Home](../index.md)
+Projects that start off big have an especially challenging task. Beyond a certain point, things just fall apart.
 
 
+### Gitter
 
+[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
+
+**Start using Gitter**
+(Under development)
+
+- Go to the [gitter website](https://gitter.im/)
+- Click on the top right SIGN IN TO START TALKING
+- Sign in with GitHub
+- Click on the mangifying glass on the left hand side to search
+- Search for data2health
+- Click on the room and join the chat
+
+Note - you can also download gitter to your desktop and chat through the app
+
+### Slack
+
+[Slack](https://slack.com/) is another chat platform that is independent of your GitHub account, and can also be used by individuals or teams to chat and instant message.
+
+### Skype
+Content is under development.
+
+##### [Click here for Lesson 5](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) 
+### [Back to Home](../index)

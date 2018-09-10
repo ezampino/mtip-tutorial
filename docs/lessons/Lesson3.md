@@ -1,4 +1,4 @@
-## Lesson 3: Managing documents in shared locations
+## Lesson 3: Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)
 ##### [Back to Home](../index.md)
 
 ### Overview:

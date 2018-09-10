@@ -1,4 +1,4 @@
-## Lesson 5: Managing documents in shared locations
+## Lesson 3: Managing documents in shared locations
 ##### [Back to Home](../index.md)
 
 ### Overview:
@@ -102,5 +102,5 @@ Living actively-edited documents can be named with the year or month if useful t
 
 For naming of STATIC files such as Microsoft Office (word, excel etc) (non native google documents); version control is a bit of a mess.
 
-##### [Click here for Lesson 6](https://data2health.github.io/mtip-tutorial/lessons/Lesson6.html) 
+##### [Click here for Lesson 4](https://data2health.github.io/mtip-tutorial/lessons/Lesson4.html) 
 ### [Back to Home](../index)

@@ -1,4 +1,4 @@
-## Lesson 3: Introduction to GitHub
+## Lesson 5: Introduction to GitHub for managers (non-programmers)
 ##### [Back to Home](../index.md)
 ### Overview:
 - [Getting started](#getting-started)
@@ -90,6 +90,6 @@ We created a Gitter room for this tutorial, please join [here](https://gitter.im
 - [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
 
 
-##### [Click here for Lesson 4](https://data2health.github.io/mtip-tutorial/lessons/Lesson4.html) 
+##### [Click here for Lesson 6](https://data2health.github.io/mtip-tutorial/lessons/Lesson6.html) 
 ### [Back to Home](../index.md)
 

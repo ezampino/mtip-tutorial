@@ -16,7 +16,7 @@ Note that if the workshop is oversubscribed, a second date will be considered.
 
 ### Agenda
 
-**Note: This content is still under development; each lesson includes time for putting it into practice.**  
+**Note: This content is still under development; timing of each lesson is approximate and includes time for putting it into practice.**  
 
 - 9am PT [Lesson 1: Introduction to agile project management techniques](lessons/Lesson1.md)
 - 10am PT [Lesson 2: Introduction to RedCap for team onboarding](lessons/Lesson2.md) 

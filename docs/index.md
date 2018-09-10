@@ -20,12 +20,12 @@ Note that if the workshop is oversubscribed, a second date will be considered.
 
 - [Lesson 1: Agile project management techniques](lessons/Lesson1.md)
 - [Lesson 2: Using RedCap for team onboarding](lessons/Lesson2.md) 
-- [Lesson 3: Introduction to GitHub
+- [Lesson 3: Managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson5.md) 
+- [Lesson 4: Team communication via persistent chat / email etc](lessons/Lesson6.md)
+- [Lesson 5: Introduction to GitHub for managers (non-programmers)
 ](lessons/Lesson3.md) 
-- [Lesson 4: Managing and tracking issues in GitHub
+- [Lesson 6: Managing and tracking issues in GitHub
 ](lessons/Lesson4.md)
-- [Lesson 5: Managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson5.md) 
-- [Lesson 6: Team communication via persistent chat / email etc](lessons/Lesson6.md)
 
 #### Privacy
 \* This tutorial is scoped for public data and communications only. If have any questions about the suitability of these technologies for your particular project at your institution, please contact them. At OHSU, the right place to ask is the information technology group: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)

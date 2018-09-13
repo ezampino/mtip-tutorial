@@ -27,6 +27,9 @@ Some things are better communicated in person or by team leads rather than by a 
 
 Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/](https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/)
 
+Chat is great for the kinds of ephemeral conversations that would otherwise be protracted or difficult to follow by email.
+Eg. 
+
 #### 5. Know what to look for in terms of growing pains
 
 Projects that start off big have an especially challenging task. Beyond a certain point, things just fall apart. Pick which battles to centralize and which to delegate.

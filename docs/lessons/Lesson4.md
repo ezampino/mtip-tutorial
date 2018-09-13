@@ -3,7 +3,7 @@
 
 ### Overview
 - [Communication considerations](#communication)
-- [Gitter](#gitter) - Get set up on gitter
+- [Gitter](#gitter)
 - [Slack](#slack)
 - [Skype](#skype)
 - [Zoom](#zoom)

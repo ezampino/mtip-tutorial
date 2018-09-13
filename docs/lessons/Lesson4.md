@@ -15,22 +15,6 @@
 
 Depending on the type of work you do, a daily or even a couple of daily meetings might be required to ensure team cohesiveness. Mandy Brown, the CEO of Editorially, a collaborative writing platform that was bought by Vox Media last year, [advocates](http://stet.editorially.com/articles/making-remote-teams-work/) that remote teams overcommunicate on purpose. “On a remote team, opportunities for misunderstanding between teammates distributed across both time and geography magnify,” she wrote. Brown says one effective way to ensure communication is to record meetings so that anyone confused about what has transpired can go back and look at the record. In practice, recording meetings can also limit candor, so it should be limited to meetings where a key member is known to be missing and has indicated a willingness to listen to the recording. Communication is key to effectively leading remote and/or distributed teams. Setting up the standard for communication and requiring it be followed will be critical.
 
-### Gitter
-
-[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message. Its strength is that it is open source rather than 
-
-**Start using Gitter**
-(Under development)
-
-- Go to the [gitter website](https://gitter.im/)
-- Click on the top right SIGN IN TO START TALKING
-- Sign in with GitHub
-- Click on the mangifying glass on the left hand side to search
-- Search for data2health
-- Click on the room and join the chat
-
-Note - you can also download gitter to your desktop and chat through the app
-
 #### 2. Experiment small and scale up to the whole team
 
 When asking the whole team to do a new kind of task, ask one person or a handful of other people if the request is clear. You may not want to pilot your requests with the team member who is always complaining; however, sometimes this makes sense. If the sticky wicket can help identify a lack of clarity, diffuse purpose etc. it can save the whole team time and work more effectively. The bigger your team is, the more important this step is.
@@ -46,6 +30,22 @@ Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discou
 #### 5. Know what to look for in terms of growing pains
 
 Projects that start off big have an especially challenging task. Beyond a certain point, things just fall apart. Pick which battles to centralize and which to delegate.
+
+### Gitter
+
+[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message. Its strength is that it is open source rather than 
+
+**Start using Gitter**
+(Under development)
+
+- Go to the [gitter website](https://gitter.im/)
+- Click on the top right SIGN IN TO START TALKING
+- Sign in with GitHub
+- Click on the mangifying glass on the left hand side to search
+- Search for data2health
+- Click on the room and join the chat
+
+Note - you can also download gitter to your desktop and chat through the app
 
 ### Slack
 

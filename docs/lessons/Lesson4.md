@@ -42,7 +42,7 @@ Projects that start off big have an especially challenging task. Beyond a certai
 - Click on the top right SIGN IN TO START TALKING
 - Sign in with GitHub
 - Click on the mangifying glass on the left hand side to search
-- Search for data2health
+- Search for MTIP-tutorial
 - Click on the room and join the chat
 
 Note - you can also download gitter to your desktop and chat through the app

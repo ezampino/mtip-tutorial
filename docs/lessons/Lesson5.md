@@ -14,10 +14,14 @@ GitHub itself isn't much more than a social network like Facebook or Instagram. 
 
 Git supports the following types of primary entities:
 
-- **Individual:** A person who contributes to GitHub (that's you!) Example individual http://github.com/jmcmurry
-- **Organization:** An entity that may correspond to an actual organization (such as a university) or to a meaningful grouping of repositories. Organizations are like individuals except that they can establish teams. Example organization: github.com/data2health.
-- **Repository:** A collection of versioned files (of any type) Example repository http://github.com/data2health/mtip-tutorial
-- **Teams**: A group of individuals assembled by the administrators of an organization. An individual may participate in many teams and organizations, however a team is always bound to a single organization. Example team https://github.com/orgs/data2health/teams/mtiptutorial
+- **Individual:** A person who contributes to GitHub (that's you!) 
+  - Example individual http://github.com/jmcmurry
+- **Organization:** An entity that may correspond to an actual organization (such as a university) or to a meaningful grouping of repositories. Organizations are like individuals except that they can establish teams. 
+  - Example organization: http://github.com/data2health.
+- **Repository:** A collection of versioned files (of any type)
+  - Example repository http://github.com/data2health/mtip-tutorial
+- **Teams**: A group of individuals assembled by the administrators of an organization. An individual may participate in many teams and organizations, however a team is always bound to a single organization. 
+  - Example team https://github.com/orgs/data2health/teams/mtiptutorial
 
 The relationships between any combination of these entities is many-to-many, with the nuanced exception of repositories.
 For our purposes today we will oversimplify by saying that a repositoy belongs *either* to a single organization or to a single *individual*.

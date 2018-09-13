@@ -6,10 +6,18 @@
 - [Communication considerations](#communication)
 - [Slack](#slack)
 - [Skype](#skype)
+- [Zoom](#zoom)
+
+
+### Communication considerations
+
+#### 1. Set clear standards of communication
+
+Depending on the type of work you do, a daily or even a couple of daily meetings might be required to ensure team cohesiveness. Mandy Brown, the CEO of Editorially, a collaborative writing platform that was bought by Vox Media last year, [advocates](http://stet.editorially.com/articles/making-remote-teams-work/) that remote teams overcommunicate on purpose. “On a remote team, opportunities for misunderstanding between teammates distributed across both time and geography magnify,” she wrote. Brown says one effective way to ensure communication is to record meetings so that anyone confused about what has transpired can go back and look at the record. In practice, recording meetings can also limit candor, so it should be limited to meetings where a key member is known to be missing and has indicated a willingness to listen to the recording. Communication is key to effectively leading remote and/or distributed teams. Setting up the standard for communication and requiring it be followed will be critical.
 
 ### Gitter
 
-[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
+[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message. Its strength is that it is open source rather than 
 
 **Start using Gitter**
 (Under development)
@@ -22,12 +30,6 @@
 - Click on the room and join the chat
 
 Note - you can also download gitter to your desktop and chat through the app
-
-### Communication considerations
-
-#### 1. Set clear standards of communication
-
-Depending on the type of work you do, a daily or even a couple of daily meetings might be required to ensure team cohesiveness. Mandy Brown, the CEO of Editorially, a collaborative writing platform that was bought by Vox Media last year, [advocates](http://stet.editorially.com/articles/making-remote-teams-work/) that remote teams overcommunicate on purpose. “On a remote team, opportunities for misunderstanding between teammates distributed across both time and geography magnify,” she wrote. Brown says one effective way to ensure communication is to record meetings so that anyone confused about what has transpired can go back and look at the record. In practice, recording meetings can also limit candor, so it should be limited to meetings where a key member is known to be missing and has indicated a willingness to listen to the recording. Communication is key to effectively leading remote and/or distributed teams. Setting up the standard for communication and requiring it be followed will be critical.
 
 #### 2. Experiment small and scale up to the whole team
 
@@ -43,15 +45,17 @@ Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discou
 
 #### 5. Know what to look for in terms of growing pains
 
-Projects that start off big have an especially challenging task. Beyond a certain point, things just fall apart.
-
+Projects that start off big have an especially challenging task. Beyond a certain point, things just fall apart. Pick which battles to centralize and which to delegate.
 
 ### Slack
 
-[Slack](https://slack.com/) is another chat platform that is independent of your GitHub account, and can also be used by individuals or teams to chat and instant message.
+[Slack](https://slack.com/) is another chat platform that is independent of your GitHub account, and can also be used by individuals or teams to chat and instant message. Its strength is that anyone on a project can create a "channel" with focused conversation about a particular topic.
 
 ### Skype
-Content is under development.
+Skype's strength over Slack and Gitter is that it is completely decentralized. Consequently, it is easier to convene chat or voice communication in an ad-hoc manner across teams/projects as needed. Virtually everyone has it and it is free. You can also set up Skype-In numbers (useful for remote workers). Note that "Skype for Business" is not the same as plain ol Skype; Skype for Business, actually has more headaches and offers less flexibility than does its free rival.
+
+### Zoom
+While you are on a zoom call, you can message the participants, however, the history is not preserved between sessions in the same room. It is not even visible to new participants who arrive late to the call.
 
 ##### [Click here for Lesson 5](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) 
 ### [Back to Home](../index)

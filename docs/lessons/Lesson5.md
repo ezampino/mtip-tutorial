@@ -14,10 +14,10 @@ GitHub itself isn't much more than a social network like Facebook or Instagram. 
 
 Git supports the following types of primary entities:
 
-- **Individual:** A person who contributes to GitHub (that's you!)
-- **Repository:** A collection of versioned files (of any type)
-- **Organization:** An entity that may correspond to an actual organization (such as a university) or to a meaningful grouping of repositories. Organizations are like individuals except that they can establish teams.
-- **Teams**: A group of individuals assembled by the administrators of an organization. An individual may participate in many teams and organizations, however a team is always bound to a single organization.
+- **Individual:** A person who contributes to GitHub (that's you!) Example individual http://github.com/jmcmurry
+- **Organization:** An entity that may correspond to an actual organization (such as a university) or to a meaningful grouping of repositories. Organizations are like individuals except that they can establish teams. Example organization: github.com/data2health.
+- **Repository:** A collection of versioned files (of any type) Example repository http://github.com/data2health/mtip-tutorial
+- **Teams**: A group of individuals assembled by the administrators of an organization. An individual may participate in many teams and organizations, however a team is always bound to a single organization. Example team https://github.com/orgs/data2health/teams/mtiptutorial
 
 The relationships between any combination of these entities is many-to-many, with the nuanced exception of repositories.
 For our purposes today we will oversimplify by saying that a repositoy belongs *either* to a single organization or to a single *individual*.
@@ -31,8 +31,8 @@ For our purposes today we will oversimplify by saying that a repositoy belongs *
 	- Choose settings
 	- Upload new picture
 - Create a repository 
-	- click New next to "Repositories" on the left
-	- give your new repository a name, like MTIP-test
+	- In your user space (https://github.com/YOURHANDLEHERE click New next to "Repositories" on the left
+	- give your new repository a name, like MTIP-test (don't worry, you can delete this later)
 	- Give it a description
 	- Make it public
 	- Click "Initialize this repository with a README"
@@ -77,7 +77,7 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 Note: You can create folders in your GitHub repository, just like on your computer.
 
 ### Gitter
-Gitter is a chat platform (like Skype, Slack, etc.) that is linked to GitHub accounts.
+Gitter is a chat platform (like Skype, Slack, etc.) that is (optionally) linked to GitHub accounts.
 
 We created a Gitter room for this tutorial, please join [here](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
 

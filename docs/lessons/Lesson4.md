@@ -27,8 +27,14 @@ Some things are better communicated in person or by team leads rather than by a 
 
 Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/](https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/)
 
-Chat is great for the kinds of ephemeral conversations that would otherwise be protracted or difficult to follow by email.
+Chat is great for the kinds of ephemeral conversations that would otherwise be overly ceremonious by email.
 Eg. 
+
+<img src="../other-images/ephemeral_convo.png" width="300" />
+
+Gitter and Skype also offer read receipts which can be helpful for announcements.
+
+<img src="../other-images/read_receipt_gitter.png" width="300" />
 
 #### 5. Know what to look for in terms of growing pains
 
@@ -36,7 +42,7 @@ Projects that start off big have an especially challenging task. Beyond a certai
 
 ### Gitter
 
-[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message. Its strength is that it is open source rather than 
+[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message. Its strength is that it has good integration with GitHub and the content you put in is yours (and can be gotten out as text if the platform were to go commercial).
 
 **Start using Gitter**
 (Under development)

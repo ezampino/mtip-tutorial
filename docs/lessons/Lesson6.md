@@ -29,9 +29,9 @@ How to create an issue in GitHub:
 - Write an informative title
 - Write a detailed explanation of your issue
 - In the case of reporting software bugs, provide some context in which the issue was encountered (e.g. bug detected when using Google Chrome on a Mac OS)
-- Indicate whether the issue is a task, enhancement, or bug
+- Assign a label: indicate whether the issue is a task, enhancement, or bug. Note, these are the default labels that come with a new repository, you can add more or edit or remove these.
 - If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. Note, you can also add sub-tasks by clicking the 'add a task list' button in the tool bar. The status of the tasks in an issue (eg. [https://github.com/data2health/mtip-tutorial-temp/issues/1](https://github.com/data2health/mtip-tutorial-temp/issues/1)) will then be reflected in any summary view. Eg. [https://github.com/data2health/mtip-tutorial-temp/issues](https://github.com/data2health/mtip-tutorial-temp/issues).
-- acknowledgement of dependencies (you can refefence other issues in the tracker by just including the issue #, e.g. #1)
+- Acknowledgement of dependencies (you can refefence other issues in the tracker by just including the issue #, e.g. #1)
 - mentions of specific people
 - Click Submit new issue
 - Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).

@@ -2,10 +2,26 @@
 ##### [Back to Home](../index.md)
 
 ### Overview
+- [Gitter](#gitter) - Get set up on gitter
 - [Communication considerations](#communication)
-- [Gitter](#gitter)
 - [Slack](#slack)
 - [Skype](#skype)
+
+### Gitter
+
+[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
+
+**Start using Gitter**
+(Under development)
+
+- Go to the [gitter website](https://gitter.im/)
+- Click on the top right SIGN IN TO START TALKING
+- Sign in with GitHub
+- Click on the mangifying glass on the left hand side to search
+- Search for data2health
+- Click on the room and join the chat
+
+Note - you can also download gitter to your desktop and chat through the app
 
 ### Communication considerations
 
@@ -29,22 +45,6 @@ Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discou
 
 Projects that start off big have an especially challenging task. Beyond a certain point, things just fall apart.
 
-
-### Gitter
-
-[Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message.
-
-**Start using Gitter**
-(Under development)
-
-- Go to the [gitter website](https://gitter.im/)
-- Click on the top right SIGN IN TO START TALKING
-- Sign in with GitHub
-- Click on the mangifying glass on the left hand side to search
-- Search for data2health
-- Click on the room and join the chat
-
-Note - you can also download gitter to your desktop and chat through the app
 
 ### Slack
 

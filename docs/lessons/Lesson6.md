@@ -32,7 +32,7 @@ How to create an issue in GitHub:
 - Assign a label: indicate whether the issue is a task, enhancement, or bug. Note, these are the default labels that come with a new repository, you can add more or edit or remove these.
 - If you know the sub-tasks that are involved, list these using `- [ ] ` markdown syntax before each bullet. Note, you can also add sub-tasks by clicking the 'add a task list' button in the tool bar. The status of the tasks in an issue (eg. [https://github.com/data2health/mtip-tutorial-temp/issues/1](https://github.com/data2health/mtip-tutorial-temp/issues/1)) will then be reflected in any summary view. Eg. [https://github.com/data2health/mtip-tutorial-temp/issues](https://github.com/data2health/mtip-tutorial-temp/issues).
 - Acknowledgement of dependencies (you can refefence other issues in the tracker by just including the issue #, e.g. #1)
-- mentions of specific people
+- Mentions of specific people
 - Click Submit new issue
 - Edit the issue (if needed) (Note that post-hoc edits will not propagate to email notifications).
 
@@ -66,7 +66,7 @@ On the ticket you previously created:
 
 **Comment on issues**
 
-- Click on an issue in the issue tracker in the [OHSU-Library/github-tutorial](https://github.com/OHSU-Library/github-tutorial) repo
+- Click on an issue in the issue tracker in the [https://github.com/data2health/mtip-tutorial-temp](https://github.com/data2health/mtip-tutorial-temp) repo
 - Scroll to the bottom of the issue, and add content in the "Leave a comment" field
 - Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
 - Preview your text to see how your formatting looks

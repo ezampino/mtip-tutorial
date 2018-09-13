@@ -2,8 +2,8 @@
 ##### [Back to Home](../index.md)
 
 ### Overview
-- [Gitter](#gitter) - Get set up on gitter
 - [Communication considerations](#communication)
+- [Gitter](#gitter) - Get set up on gitter
 - [Slack](#slack)
 - [Skype](#skype)
 - [Zoom](#zoom)

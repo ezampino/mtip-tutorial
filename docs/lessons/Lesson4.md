@@ -17,7 +17,7 @@ Depending on the type of work you do, a daily or even a couple of daily meetings
 
 #### 2. Experiment small and scale up to the whole team
 
-When asking the whole team to do a new kind of task, ask one person or a handful of other people if the request is clear. You may not want to pilot your requests with the team member who is always complaining; however, sometimes this makes sense. If the sticky wicket can help identify a lack of clarity, diffuse purpose etc. it can save the whole team time and work more effectively. The bigger your team is, the more important this step is. Even when rolling out more broadly, it can be useful to describe new approaches as experiments. This leaves the door open for tweaking the approach. Keep in mind that there is nothing (!) that will please everyone. Accept that there's always going to be someone on the team with an intractable suggestion.
+When asking the whole team to do a new kind of task, ask one person or a handful of other people if the request is clear. You may not want to pilot your requests with the team member who is always complaining; however, sometimes this makes sense. If the sticky wicket can help identify a lack of clarity, diffuse purpose etc. it can save the whole team time and work more effectively. The bigger your team is, the more important this step is. Even when rolling out more broadly, it can be useful to describe new approaches as experiments. This leaves the door open for tweaking the approach. Keep in mind that there is nothing (!) that will please everyone. Accept that there's always going to be someone on the team with a peculiar suggestion that won't work for anyone but them.
 
 <img src="https://imgs.xkcd.com/comics/chat_systems.png" width="500" />
 
@@ -68,7 +68,7 @@ Note - you can also download gitter to your desktop and chat through the app
 Skype's strength over Slack and Gitter is that it is completely decentralized. Consequently, it is easier to convene chat or voice communication in an ad-hoc manner across teams/projects as needed. While not everyone uses Skype regularly, virtually everyone has a Skype account and it is free. You can also set up Skype-In numbers (useful for remote workers). Note that "Skype for Business" is not the same as plain ol' Skype; Skype for Business, actually has more headaches and offers less flexibility than does its free rival.
 
 ### Zoom
-While you are on a zoom call, you can message the participants, however, the history is not preserved between sessions in the same room. It is not even visible to new participants who arrive late to the call. There's no way to use the chat feature outside of an active meeting.
+While you are on a zoom call, you can message the participants, however, the history is not preserved between sessions in the same room. It is not even visible to new participants who arrive late to the call. There's no way to use the chat feature outside of an active meeting. If you want the chat history to be preserved during a call, you'll need a different mechanism that is persistent.
 
 ##### [Click here for Lesson 5](https://data2health.github.io/mtip-tutorial/lessons/Lesson5.html) 
 ### [Back to Home](../index)

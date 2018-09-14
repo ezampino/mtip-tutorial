@@ -17,7 +17,12 @@ Depending on the type of work you do, a daily or even a couple of daily meetings
 
 #### 2. Experiment small and scale up to the whole team
 
-When asking the whole team to do a new kind of task, ask one person or a handful of other people if the request is clear. You may not want to pilot your requests with the team member who is always complaining; however, sometimes this makes sense. If the sticky wicket can help identify a lack of clarity, diffuse purpose etc. it can save the whole team time and work more effectively. The bigger your team is, the more important this step is.
+When asking the whole team to do a new kind of task, ask one person or a handful of other people if the request is clear. You may not want to pilot your requests with the team member who is always complaining; however, sometimes this makes sense. If the sticky wicket can help identify a lack of clarity, diffuse purpose etc. it can save the whole team time and work more effectively. The bigger your team is, the more important this step is. Even when rolling out more broadly, it can be useful to describe new approaches as experiments. This leaves the door open for tweaking the approach. Keep in mind that there is nothing (!) that will please everyone. Accept that there's always going to be someone on the team with an intractable suggestion.
+
+<img src="https://imgs.xkcd.com/comics/chat_systems.png" width="500" />
+
+
+<img src="https://imgs.xkcd.com/comics/team_chat.png" width="500" />
 
 #### 3. When it comes to centralizing comms, pick your battles
 
@@ -27,10 +32,9 @@ Some things are better communicated in person or by team leads rather than by a 
 
 Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/](https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/)
 
-Chat is great for the kinds of ephemeral conversations that would otherwise be overly ceremonious by email.
-Eg. 
+Chat is great for the kinds of ephemeral / transactional conversations that do not need to be saved. Chat is very information dense: it omits all the email headers, war-and-peace-length signatures, quoted text, and gratuitous whitespace. As a result, it takes less time and effort to skim a thread than it would a similar email thread. As with email, this does NOT mean that anyone should read every message as it comes in.
 
-<img src="../other-images/ephemeral_convo.png" width="300" />
+<img src="../other-images/ephemeral_convo.png" width="500" />
 
 Gitter and Skype also offer read receipts which can be helpful for announcements.
 
@@ -38,7 +42,7 @@ Gitter and Skype also offer read receipts which can be helpful for announcements
 
 #### 5. Know what to look for in terms of growing pains
 
-Projects that start off big have an especially challenging task. Beyond a certain point, things just fall apart. Pick which battles to centralize and which to delegate.
+Projects that start off big or grow fast have an especially challenging task. Beyond a certain point, things just fall apart. Pick your battles; then once you have, pick which of those to centralize and which to federate. Revisit the battle selection periodically.
 
 ### Gitter
 
@@ -61,7 +65,7 @@ Note - you can also download gitter to your desktop and chat through the app
 [Slack](https://slack.com/) is another chat platform that is independent of your GitHub account, and can also be used by individuals or teams to chat and instant message. Its strength is that anyone on a project can create a "channel" with focused conversation about a particular topic. Relative to Skype or Gitter, Slack is not well suited to ad-hoc conversations with people that are not already on the same Slack room. See critique [here](https://www.quora.com/What-are-the-pros-and-cons-of-Gitter-vs-Slack).
 
 ### Skype
-Skype's strength over Slack and Gitter is that it is completely decentralized. Consequently, it is easier to convene chat or voice communication in an ad-hoc manner across teams/projects as needed. Virtually everyone has it and it is free. You can also set up Skype-In numbers (useful for remote workers). Note that "Skype for Business" is not the same as plain ol' Skype; Skype for Business, actually has more headaches and offers less flexibility than does its free rival.
+Skype's strength over Slack and Gitter is that it is completely decentralized. Consequently, it is easier to convene chat or voice communication in an ad-hoc manner across teams/projects as needed. While not everyone uses Skype regularly, virtually everyone has a Skype account and it is free. You can also set up Skype-In numbers (useful for remote workers). Note that "Skype for Business" is not the same as plain ol' Skype; Skype for Business, actually has more headaches and offers less flexibility than does its free rival.
 
 ### Zoom
 While you are on a zoom call, you can message the participants, however, the history is not preserved between sessions in the same room. It is not even visible to new participants who arrive late to the call. There's no way to use the chat feature outside of an active meeting.

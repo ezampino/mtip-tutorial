@@ -32,7 +32,7 @@ Some things are better communicated in person or by team leads rather than by a 
 
 Great summary here: [https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/](https://blog.discourse.org/2018/04/effectively-using-discourse-together-with-group-chat/)
 
-Chat is great for the kinds of ephemeral / transactional conversations that do not need to be saved. Chat is very information dense: it omits all the email headers, war-and-peace-length signatures, quoted text, and gratuitous whitespace. As a result, it takes less time and effort to skim a thread than it would a similar email thread. As with email, this does NOT mean that anyone should read every message as it comes in.
+Chat is great for the kinds of ephemeral / transactional conversations that do not need to be saved. Chat is very information dense: it omits all the email headers, verbose signatures, quoted text repeats, and gratuitous whitespace. As a result, it takes less time and effort to skim a thread than it would a similar email thread. As with email, this does NOT mean that anyone should read every message as it comes in; or even that anyone should read all the messages they're not mentioned on.
 
 <img src="../other-images/ephemeral_convo.png" width="500" />
 

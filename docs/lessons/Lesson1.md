@@ -6,8 +6,12 @@
 - What is project management?
   - Definition of project management
   - Waterfall vs. agile
-- Philosophy of Agile
-- Project lifecycle Overview in relation to a research study
+- Agile Overview
+- Scrum Overview
+  - Artifacts
+  - User story
+  - Scrum workflow
+- Project lifecycle overview in relation to a research study
   - Project Definition/Grant Writing
   - Planning 
   - Execution

@@ -51,12 +51,24 @@ Follow the instructions above to create a ticket about a hypothetical issue (suc
 - Note, by default, every GitHub repo comes with some standard labels
 - You can also create new labels that are specific to your project
 
+**New Labels**
+
+ - On GitHub, navigate to the main page of the repository Issues and pull requests tab selection
+ - Under your repository name, click  Issues (or  Pull requests)
+ - Click Labels button next to the search field
+ - Click New Label to create a new label, or click Edit to edit an existing one.
+ - In the text box, type your new label name.
+ - Select a color for the label from the color bar. You can customize this color by editing the hexadecimal number above the color bar. For a list of hexadecimal numbers see [HTML color codes](http://htmlcolorcodes.com/)
+ - Click Create Label to save the new label.
+
+
 **Your turn:**
 
 On the ticket you previously created:
 
 - Assign the ticket to Nicole (nicolevasilevsky)
 - Add a label for an enhancement
+- Create a new label and add it to the ticket
 
 ### Communicate about issues
 [Back to top](#overview)
@@ -115,19 +127,9 @@ You can link documents and files by:
 - Set a due date for the milestone (note that specific tasks can not be formally assigned due dates, though you can mention a desired due date in the narrative text of a ticket.
 - Each ticket can only be associated to ONE milestone, however it can have as many labels as appropriate.
 
-**New Labels**
-
- - On GitHub, navigate to the main page of the repository Issues and pull requests tab selection
- - Under your repository name, click  Issues (or  Pull requests)
- - Click Labels button next to the search field
- - Click New Label to create a new label, or click Edit to edit an existing one.
- - In the text box, type your new label name.
- - Select a color for the label from the color bar. You can customize this color by editing the hexadecimal number above the color bar. For a list of hexadecimal numbers see [HTML color codes](http://htmlcolorcodes.com/)
- - Click Create Label to save the new label.
-
 **Your turn**
 
-Create a new milestone and a new label, and add the milestone and label to an existing ticket.
+Create a new milestone, and add the milestone to an existing ticket.
 
 **Projects**
 

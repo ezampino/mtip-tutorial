@@ -35,7 +35,7 @@ For our purposes today we will oversimplify by saying that a repositoy belongs *
 	- Choose settings
 	- Upload new picture
 - Create a repository 
-	- In your user space (https://github.com/YOURHANDLEHERE click New next to "Repositories" on the left
+	- Click New next to "Repositories" on the left
 	- give your new repository a name, like MTIP-test (don't worry, you can delete this later)
 	- Give it a description
 	- Make it public

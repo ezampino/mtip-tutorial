@@ -55,11 +55,11 @@ For more help with Markdown, see this [GitHub guide](https://help.github.com/cat
 |`Combined emphasis with **asterisks and _underscores_**.`|Combined emphasis with **_asterisks and underscores_**.|
 |`Strikethrough uses two tildes. ~~Scratch this.~~` | Strikethrough uses two tildes. ~~Scratch this.~~ |
 
-Lists:
+**Lists:**  
 To introduce line breaks in markdown, add two spaces
 For a bulleted list, use * or - (followed by a space)
 
-Here is an example of a list:
+Here is an example of a list:  
 One  
 Two  
 Three  

@@ -48,6 +48,8 @@ Follow the instructions above to create a ticket about a hypothetical issue (suc
 
 - On the top right hand side, click "Labels"
 - Assign a relevant label to your ticket
+- Note, by default, every GitHub repo comes with some standard labels
+- You can also create new labels that are specific to your project
 
 **Your turn:**
 

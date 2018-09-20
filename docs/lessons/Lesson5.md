@@ -55,10 +55,29 @@ For more help with Markdown, see this [GitHub guide](https://help.github.com/cat
 |`Combined emphasis with **asterisks and _underscores_**.`|Combined emphasis with **_asterisks and underscores_**.|
 |`Strikethrough uses two tildes. ~~Scratch this.~~` | Strikethrough uses two tildes. ~~Scratch this.~~ |
 
+Lists:
+To introduce line breaks in markdown, add two spaces
+For a bulleted list, use * or - (followed by a space)
+
+Here is an example of a list:
+One  
+Two  
+Three  
+
+Here is an example of a bulleted list:
+- One
+- Two
+- Three
+
+You can also create checklists by using - [ ]
+- [ ] One
+- [ ] Two
+- [ ] Three
+
 ### Task - update the content in your README
 - Go back to the repository you just created
 - Click the pencil icon in the right corner of your README.md file
-- Add some content to your file that includes italics, bold, unscores and strikethrough
+- Add some content to your file that includes a header, italics, bold, unscores and strikethrough
 - You can preview your changes before committing by clicking 'Preview changes'.
 - Commit your changes by clicking the commit button at the bottom of the page.
 
@@ -72,10 +91,10 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - CSV, TSV (note that files named type '.tab' will not render properly in the UI.)
 - Markdown
 - Software code (eg. including json, HTML, xml etc)
-- Any of these can also be set up outside of a repository but within your use
 
 ### Task - add content to your repository
 - Click on the code button
+- Click upload file
 - Upload a file by dragging and dropping or browse for file
 - Trying uploading an Excel file vs a TSV or CSV file. How are these displayed differently?
 

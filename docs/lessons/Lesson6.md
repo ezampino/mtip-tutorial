@@ -58,7 +58,7 @@ Follow the instructions above to create a ticket about a hypothetical issue (suc
 
 On the ticket you previously created:
 
-- Assign the ticket to Nicole
+- Assign the ticket to Nicole (nicolevasilevsky)
 - Add a label for an enhancement
 
 ### Communicate about issues

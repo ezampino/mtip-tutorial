@@ -23,7 +23,7 @@ How to create an issue in GitHub:
 
 - In [github.com](https://github.com/) navigate to the repository where you want to create a ticket:
  - On the left hand side, you should see a box with "your repositories"
- - Click on your repository: mtip-tutorial-temp
+ - Click on your repository: MTIP-test
 - Click "issues"
 - Click "New Issue" (note the word 'issue' and 'ticket' are frequently used interchangeably)
 - Write an informative title

@@ -93,8 +93,6 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - Upload a file by dragging and dropping or browse for file
 - Trying uploading an Excel file vs a TSV or CSV file. How are these displayed differently?
 
-Note: You can create folders in your GitHub repository, just like on your computer.
-
 ### Gitter
 Gitter is a chat platform (like Skype, Slack, etc.) that is (optionally) linked to GitHub accounts.
 

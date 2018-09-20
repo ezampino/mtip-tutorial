@@ -69,11 +69,6 @@ Here is an example of a bulleted list:
 - Two
 - Three
 
-You can also create checklists by using - [ ]
-- [ ] One
-- [ ] Two
-- [ ] Three
-
 ### Task - update the content in your README
 - Go back to the repository you just created
 - Click the pencil icon in the right corner of your README.md file

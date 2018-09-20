@@ -153,6 +153,15 @@ Create a new project and add columns and add cards to the columns.
 [Back to top](#overview)
 
 Once you start using GitHub for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard, [https://github.com/issues](https://github.com/issues), much more relevant to me than the notification page. [https://github.com/notifications](https://github.com/notifications).
+- All issues assigned to me: [https://github.com/issues/assigned](https://github.com/issues/assigned)
+- All issues on which I am @ mentioned: [https://github.com/issues/mentioned](https://github.com/issues/mentioned)
+
+More complex queries are also possible.
+
+- All issues either assigned to me OR on which I have commented OR am mentioned: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+)
+- All issues in all repos within an organization: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library)
+
+Further reading on [Issue querys](https://help.github.com/articles/searching-issues/)
 
 #### Configure emails for mentions
 
@@ -164,16 +173,6 @@ You can set rules in your email to filter for emails that mention you, ie @usern
 **Task: Create a team**
 
 See this [help article on creating teams](https://help.github.com/articles/creating-a-team/)
-
-- All issues assigned to me: [https://github.com/issues/assigned](https://github.com/issues/assigned)
-- All issues on which I am @ mentioned: [https://github.com/issues/mentioned](https://github.com/issues/mentioned)
-
-More complex queries are also possible.
-
-- All issues either assigned to me OR on which I have commented OR am mentioned: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+involves%3Ajmcmurry+)
-- All issues in all repos within an organization: [https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3Aohsu-library)
-
-Further reading on [Issue querys](https://help.github.com/articles/searching-issues/)
 
 ### Help
 [Back to top](#overview)

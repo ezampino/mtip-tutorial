@@ -152,7 +152,7 @@ Create a new project and add columns and add cards to the columns.
 ### Query issues
 [Back to top](#overview)
 
-Once you start using GitHub for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
+Once you start using GitHub for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard, [https://github.com/issues](https://github.com/issues), much more relevant to me than the notification page. [https://github.com/notifications](https://github.com/notifications).
 
 #### Configure emails for mentions
 

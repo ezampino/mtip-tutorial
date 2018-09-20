@@ -67,7 +67,12 @@ On the ticket you previously created:
 - Scroll to the bottom of the issue, and add content in the "Leave a comment" field
 - Use the top tool bar to format your text, add **bold**, *italic*, lists etc.
 - Preview your text to see how your formatting looks
-- Click Comment. If you want to close the issue, click Close Issue. Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the ticket and click Close Issue. The ticket will no longer be dispalyed in the list of open issue, but will be archived.
+- Click Comment. 
+
+**Close an issue**
+- If an issue has been addressed, click Close Issue. 
+- Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the ticket and click Close Issue. 
+- The ticket will no longer be dispalyed in the list of open issue, but will be archived.
 
 **Use direct @ mentions**
 

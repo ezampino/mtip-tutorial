@@ -49,6 +49,7 @@ For more help with Markdown, see this [GitHub guide](https://help.github.com/cat
 
 | Raw markup syntax | As rendered |
 |-------------|------------|
+|`Header - use # for H1, ## for H2, etc.`|# Header, ## Header (note, the header is not displaying properly in this table)|
 |`Emphasis, aka italics, with *asterisks* or _underscores_.`|Emphasis, aka italics, with *asterisks* or _underscores_.|
 |`Strong emphasis, aka bold, with **asterisks** or __underscores__.`|Strong emphasis, aka bold, with **asterisks** or __underscores__.
 |`Combined emphasis with **asterisks and _underscores_**.`|Combined emphasis with **_asterisks and underscores_**.|

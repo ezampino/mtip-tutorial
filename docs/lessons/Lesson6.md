@@ -167,29 +167,14 @@ Further reading on [Issue querys](https://help.github.com/articles/searching-iss
 
 You can set rules in your email to filter for emails that mention you, ie @username.
 
-### Teams
-[Back to top](#overview)
-
-**Task: Create a team**
-
-See this [help article on creating teams](https://help.github.com/articles/creating-a-team/)
-
 ### Help
 [Back to top](#overview)
 
-If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. https://github.com/isaacs/github/issues/. However, this is a rogue repo and a bit contentious.
+If you have an issue with GitHub itself (bug, feature request, etc) where do you go? Ironically, there is no good place. If you want to look up things that others have reported, isaacs has a good resource. [https://github.com/isaacs/github/issues/](https://github.com/isaacs/github/issues/). However, this is a rogue repo and a bit contentious.
 
 - You may find the answers you seek in  [StackOverflow](http://stackoverflow.com/questions/tagged/github), although it is primarily geared towards programmers.
-- GitHub kinda monitors [https://github.com/isaacs/github/issues/](https://github.com/isaacs/github/issues/) but not with any rigor.
+- GitHub kind of monitors [https://github.com/isaacs/github/issues/](https://github.com/isaacs/github/issues/) but not with any rigor.
 - To be safe, contact GitHub directly at [https://github.com/contact](https://github.com/contact), but recognize that they support literally millions of users and responsiveness is not guaranteed. Forums like isaacs sometimes offer some help because other users can help identify workarounds, for instance, as shown [here](https://github.com/isaacs/github/issues/65#issuecomment-123740194).
-
-### Miscellany
-
-[Back to top](#overview)
-
-- It is possible but not obvious how to rename a repository. [https://help.github.com/articles/renaming-a-repository/](https://help.github.com/articles/renaming-a-repository/)
-- Certain things you think you *should* be able to do from the UI, you just can not:
-  - Delete/rename a whole directory using the UI (this can only be done using the desktop app, or command line).
 
 ### [Back to Home](../index.md)
 

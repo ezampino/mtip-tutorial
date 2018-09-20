@@ -77,7 +77,7 @@ You can also create checklists by using - [ ]
 ### Task - update the content in your README
 - Go back to the repository you just created
 - Click the pencil icon in the right corner of your README.md file
-- Add some content to your file that includes a header, italics, bold, unscores and strikethrough
+- Add some content to your file that includes a header, italics, bold, strikethrough, and lists
 - You can preview your changes before committing by clicking 'Preview changes'.
 - Commit your changes by clicking the commit button at the bottom of the page.
 

@@ -42,7 +42,7 @@ Follow the instructions above to create a ticket about a hypothetical issue (suc
 
 - On the top right hand side, click "Assignees"
 - You can assign issues to yourself or other people who are part of the repository
-- In the box, start typing type their name or github handle.
+- In the box, start typing type their name or GitHub handle.
 
 **Add labels**
 
@@ -89,7 +89,7 @@ On the ticket you previously created:
 **Use direct @ mentions**
 
 - You can mention someone in a issue without assigning it to them
-- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry. You can either start typing their name or github handle and github will autosuggest their handle.
+- In the comments section, type @github handle. For example, to mention Julie, you would type @jmcmurry. You can either start typing their name or GitHub handle and GitHub will autosuggest their handle.
 
 **Link documents**
 
@@ -152,7 +152,7 @@ Create a new project and add columns and add cards to the columns.
 ### Query issues
 [Back to top](#overview)
 
-Once you start using github for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
+Once you start using GitHub for lots of things it is easy to get overwhelmed by the number of issues. I find the query dashboard (https://github.com/issues) much more relevant to me than the notification page (https://github.com/notifications).
 
 #### Configure emails for mentions
 

@@ -117,5 +117,7 @@ Have a huge backlog of unfiled documents? Create an "attic": a folder whose cont
 
 To "Marie Kondo" your documents/email by dumping things in archive is a lot easier than individually handling each document.
 
+To preserve the single source of truth, instead of sending docs as an email attachment, where possible, link to the document whether in box, dropbox, drive, etc.
+
 ##### [Click here for Lesson 4](https://data2health.github.io/mtip-tutorial/lessons/Lesson4.html) 
 ### [Back to Home](../index)

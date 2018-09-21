@@ -55,7 +55,7 @@ Box is the only OHSU-approved system for the storage of PHI/PII; all questions r
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|
 |Free	| +++	| -- | ---| +++ |
 |Transparent/attribution-friendly	| +++	| +	| ---	| + |
-|Suited to digital-artifact based projects `**`	| +++	| +++	| - | ++ |
+|Suited to digital-artifact based projects `**`	| +++	| +++	| +++ | ++ |
 |Tight integration w GitHub	| +++	| +	| + | + |
 |Tight integration w chat systems	| +++	| ?	| ? | ? |
 |Detailed dependency view/control| + | +++ |+++| ? |

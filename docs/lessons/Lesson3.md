@@ -2,6 +2,9 @@
 ##### [Back to Home](../index.md)
 
 ### Overview:
+
+The old chestnet: "You can please some of the people all of the time, and all of the people some of the time, but not all of the people all of the time."
+
 - [Deciding when GitHub is the right choice for your project](#when-to-use-github)  
 - [Google Document Naming, Versioning, Deletion, and Deprecation](#google-document-naming-versioning-deletion-and-deprecation)
 
@@ -36,11 +39,11 @@ Native Google Docs is not the same as Google Drive. These are often conflated.
 |R/W access control at individual level	| -	| +++	| +++	| +++|+++|
 |OHSU approved for sensitive data/communications (PHI/PII) | - | - | - | +++ | -|
 
-`#` True serial collaborative editing is supported via Box, however at this time, Box does not warn users regarding who already has a document open. Consequently, using Box in the context of tight deadlines with multiple contributors requires extremely rigorous immediate communication regarding who has the lock on a document at any given moment. In our team's experience collaboratively writing grant proposals under tight deadlines, the lack of safeguards afforded by automatic notification (eg as supported by DropBox, by contrast) have led to confusion and lost effort. GitHub does not support simultaneous collaborative editing, however if editing happens to be carried out simultaneously by chance, conflicts are easy to assess and resolve.
+`#` True serial collaborative editing is supported via Box, however at this time, Box does not warn users regarding who already has a document open. Consequently, using Box in the context of tight deadlines with multiple contributors requires extremely rigorous immediate communication regarding who has the lock on a document at any given moment. In our team's experience collaboratively writing grant proposals under tight deadlines, the lack of safeguards afforded by automatic notification (eg as supported by DropBox, by contrast) have led to confusion and lost effort in our experience. GitHub does not support simultaneous collaborative editing, however if editing happens to be carried out simultaneously by chance, conflicts are easy to assess and resolve.
 
 `*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering as  text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). 
 
-Except in "Office Online" mode, using Google Drive or Box to share collaboratively-edited files (eg. Office files) has terrible implications for tight deadlines: there are currently no notifications in case of version conflict. In Google drive in particular, the speed of syncrhonization is very spotty (sometimes as long as 30 minutes in our experience).
+While editing in "Office 365" mode can theoretically overcome some these hurdles, it is not free and not widespread. Moreover, it should not be conflated with "Office online" which supports only serial collaborative edits with document locks. Implications for tight deadlines are poor.
 
 Combinations of technologies can work synergistically (eg. link a google doc to a github issue) if you understand their strengths and limitations.
 
@@ -101,6 +104,18 @@ Having a future date in there is ok such as “Report XXX due 2019-04-27” or a
 Living actively-edited documents can be named with the year or month if useful to convey freshness, else it can be omitted. Version history is always there if someone needs to inspect.
 
 For naming of STATIC files such as Microsoft Office (word, excel etc) (non native google documents); version control is a bit of a mess.
+
+#### Filing (any) document
+
+No matter where you file your docs, think carefully about:
+ - Which folder x team permissions make the most sense for your project
+ - Guidance about which kinds of documents go in which places
+
+Disk space is cheap; document search is cheap. Beyond these high level considerations, don't hand wring over baroque folder structure: Filing a document in *some* shared location with a searchable title is far more important than filing it in exactly the right subfolder. Don't postpone filing because you're overthinking subfolders.
+
+Have a huge backlog of unfiled documents? Create an "attic": a folder whose contents are of unknown / archival value. Gradually move things out as needed.
+
+To "Marie Kondo" your documents/email by dumping things in archive is a lot easier than individually handling each document.
 
 ##### [Click here for Lesson 4](https://data2health.github.io/mtip-tutorial/lessons/Lesson4.html) 
 ### [Back to Home](../index)

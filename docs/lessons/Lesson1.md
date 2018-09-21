@@ -27,7 +27,7 @@
 
 ### Resources
 Project Management Institute: [pmi.org](https://www.pmi.org/)  
-[Justin's slides](https://github.com/data2health/mtip-tutorial/blob/master/docs/lessons/Agile%20Training%20(9-21-18).pptx) - note, this link will take you to the GitHub repo, click `download`
+[Justin's slides](https://github.com/data2health/mtip-tutorial/blob/master/docs/lessons/Agile%20Training%20(9-21-18).pptx) - note, this link will take you to the GitHub repo, click **Download**
 
 ##### [Click here for Lesson 2](https://data2health.github.io/mtip-tutorial/lessons/Lesson2.html) 
 ### [Back to Home](../index)

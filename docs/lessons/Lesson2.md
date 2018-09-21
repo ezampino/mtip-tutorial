@@ -20,8 +20,8 @@ ADVANTAGES OF REDCAP OVER MS EXCEL, ACCESS AND SOME OTHER ONLINE SURVEY TOOLS:
 - Export results to common data analysis packages: Microsoft Excel, SAS, Stata, R, or SPSS for analysis.
 - Save your survey or forms as PDFs - Generate a PDF version for printing in order to collect responses offline.
 
-- Demonstration of onboarding using RedCap in action [Julie's demo is private](https://redcap-dev.cgrb.oregonstate.edu/redcap_v8.7.1/Logging/index.php?pid=13)
-- Try it at home; upload the data dictionary. TODO
+- Demonstration of onboarding using RedCap in action [here](https://redcap-dev.cgrb.oregonstate.edu/surveys/?s=9DAAEDK8M7)
+- Try it at home; upload the sample data dictionary from [here](https://github.com/data2health/mtip-tutorial/blob/master/docs/data/ProjectOnboarding_DataDictionary_2018-09-15.csv) into your own instance.
 
 #### Features of Google forms
 - Option to require sign in and allow only 1 response per person

@@ -23,6 +23,6 @@
 - Amy	Williams: [awilliams3693](https://github.com/awilliams3693)
 - Lisset Dumet
 - Kristine	Lan
-- Paris	Zhang
+- Paris	Zhang: [PariSsy}(https://github.com/PariSsy)
 - Moni	Munoz-Torres: [monicacecilia](https://github.com/monicacecilia)
 - Sarah	Nelson

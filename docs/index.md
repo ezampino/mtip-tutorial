@@ -14,6 +14,9 @@ Translational Informatics projects are increasingly cross-institutional and even
 #### [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdNWPSk1jJVu-b2ITL6SwNVlOkaqdHiymTV4GtrZzmetuaJdQ/viewform)
 Note that if the workshop is oversubscribed, a second date will be considered.
 
+#### Invitation
+We are -- all of us -- continually learning. We the facilitators are going to present some lessons learned and strategies  that work best for us, but if there is a newer, better, more scaleable way of doing something operational, we really want to know so we can have more time to focus on the science. Speak up; we would love to hear.
+
 ### Agenda
 
 **Note: This content is still under development; timing of each lesson is approximate and includes time for putting it into practice.**  

@@ -32,6 +32,9 @@ ADVANTAGES OF REDCAP OVER MS EXCEL, ACCESS AND SOME OTHER ONLINE SURVEY TOOLS:
 - Negatives
   - Not all institutions allow use of Google forms
   - Compared to RedCap, offers much less rigorous versioning options, both of the form and its responses
+  
+### RedCap Training at OHSU
+More information [here](https://www.ohsu.edu/xd/research/centers-institutes/octri/resources/octri-research-services/redcap-tutorials.cfm)
 
 ##### [Click here for Lesson 3](https://data2health.github.io/mtip-tutorial/lessons/Lesson3.html)
 ### [Back to Home](../index)

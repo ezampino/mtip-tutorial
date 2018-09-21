@@ -21,7 +21,6 @@
 - Nicola Long
 - Chris	Eide
 - Amy	Williams: [awilliams3693](https://github.com/awilliams3693)
-
 - Lisset Dumet
 - Kristine	Lan
 - Paris	Zhang

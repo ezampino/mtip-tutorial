@@ -58,7 +58,7 @@ Box is the only OHSU-approved system for the storage of PHI/PII; all questions r
 |Suited to digital-artifact based projects `**`	| +++	| +++	| +++ | ++ |
 |Tight integration w GitHub	| +++	| +	| + | + |
 |Tight integration w chat systems	| +++	| ?	| ? | ? |
-|Detailed dependency view/control| + | +++ |+++| ? |
+|Detailed dependency view/control| ++ | +++ |+++| ? |
 |Powerful but not overwhelming/feature-bloated |+++| + | -- | +++ |
 
 TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm AND that have the buy-in of the team for a lot of organizational overhead. For *most* projects in academia, I have found GitHub, in combination with Google Docs, to be ample tool for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options for your use case.

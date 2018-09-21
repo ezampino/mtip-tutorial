@@ -52,7 +52,7 @@ Projects that start off big or grow fast have an especially challenging task. Be
 
 **Start using Gitter**
 
-- Go to the [gitter website](https://gitter.im/)
+- Go to the [gitter website](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 - Click on the top right SIGN IN TO START TALKING
 - Sign in with GitHub
 - Click on the mangifying glass on the left hand side to search

@@ -21,7 +21,7 @@
 - Links
 
 ### Resources
-[pmi.org](https://www.pmi.org/)
+Project Management Institute: [pmi.org](https://www.pmi.org/)
 
 ##### [Click here for Lesson 2](https://data2health.github.io/mtip-tutorial/lessons/Lesson2.html) 
 ### [Back to Home](../index)

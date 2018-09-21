@@ -119,5 +119,17 @@ To "Marie Kondo" your documents/email by dumping things in archive is a lot easi
 
 To preserve the single source of truth, instead of sending docs as an email attachment, where possible, link to the document whether in box, dropbox, drive, etc.
 
+The entire point of filing a document is to be able to retrieve it.
+
+##### Tasks
+- Do a search on your hard drive for files called generic things like 'budget' or 'report'. Can you tell at a glance if they're what you're looking for without examining the path of each?
+- Improve the filename and try the search again. Did it help?
+- Experiment with sharing a file using a link instead of an attachment
+- Customize your browser toolbar with links to frequently accessed documents
+- Explore the document version history available in your platform of choice. Identify a prior version and restore it.
+  - Box.com
+  - Dropbox
+  - GDrive
+
 ##### [Click here for Lesson 4](https://data2health.github.io/mtip-tutorial/lessons/Lesson4.html) 
 ### [Back to Home](../index)

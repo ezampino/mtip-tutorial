@@ -51,7 +51,6 @@ Projects that start off big or grow fast have an especially challenging task. Be
 [Gitter](https://gitter.im/) is a chat platform that is linked your github account, and can be used for individuals and teams to chat/instant message. Its strength is that it has good integration with GitHub and the content you put in is yours (and can be gotten out as text if the platform were to go commercial).
 
 **Start using Gitter**
-(Under development)
 
 - Go to the [gitter website](https://gitter.im/)
 - Click on the top right SIGN IN TO START TALKING

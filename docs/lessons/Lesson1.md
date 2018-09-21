@@ -5,7 +5,12 @@
 
 - What is project management?
   - Definition of project management
-  - Waterfall vs. agile
+  - Project Management Methodologies
+    - Waterfall
+    - Kanban
+    - Scrum
+    - KP
+    - Six Sigma/Lean
 - Agile Overview
 - Scrum Overview
   - Artifacts

@@ -1,14 +1,16 @@
 ## Lesson 3: Survival strategies for managing  documents in shared locations 
 ##### [Back to Home](../index.md)
 
+[Suggest an edit to this page](https://github.com/data2health/mtip-tutorial/blob/master/docs/lessons/Lesson3.md) or [log an issue](https://github.com/data2health/mtip-tutorial/issues/new)
+
 ### Overview:
 
-The old chestnut: "You can please some of the people all of the time, and all of the people some of the time, but not all of the people all of the time."
+The old chestnut: "You can please some of the people all of the time, and all of the people some of the time, but not all of the people all of the time." This is guaranteed to apply to the management of collaboratively-edited documents.
 
 - [Deciding when GitHub is the right choice for your project](#when-to-use-github)  
 - [Google Document Naming, Versioning, Deletion, and Deprecation](#google-document-naming-versioning-deletion-and-deprecation)
 
-### When to use GitHub
+### What technology is right for your project and team?
 
 It can be tricky to figure out what technologies to use for what kinds of purposes. The table below is a simplified matrix comparing different systems for collaboratively working on documents and versions.
 
@@ -18,7 +20,7 @@ Legend:
 ++ Reasonably suited
 + Barely suited
 - not supported
---- Disastrous implications when attempted
+--- Fraught / feature-poor
 ````
 
 Note:
@@ -28,7 +30,7 @@ Native Google Docs is not the same as Google Drive. These are often conflated. M
 
 | Feature | GitHub        | Native Google Docs | Office via DropBox  | Office via Box  | Office Online
 |:-------:|:-------------:|:------------------:|:--------------------:|:--------------------:|:--------------------:|
-|Concurrent collaborative editing	| + `#`	| +++| --- | --- | +
+|Concurrent collaborative editing	| + `#`	| +++| - | - | +
 |Serial collaborative editing	| +++	| +++	| +++	| + `#` |+ `#`|
 |Typesetting and formatting `*`	| ++	| ++	| +++	| ++|
 |Version control	| +++	| ++	| +	| +/- |
